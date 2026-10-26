@@ -1,0 +1,13 @@
+{
+  "priority_hours": { "P1": 4, "P2": 8, "P3": 24, "P4": 72 },
+  "business_days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+  "business_hours_start": "09:00",
+  "business_hours_end": "18:00",
+  "on_hold_status": "ON_HOLD",
+  "holidays": [
+    "2026-01-01",
+    "2026-01-26",
+    "2026-08-15",
+    "2026-10-02"
+  ]
+}

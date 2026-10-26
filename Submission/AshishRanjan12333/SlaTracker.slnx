@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SlaTracker.Runner/SlaTracker.Runner.csproj" />
+    <Project Path="src/SlaTracker/SlaTracker.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/SlaTracker.Tests/SlaTracker.Tests.csproj" />
+  </Folder>
+</Solution>
